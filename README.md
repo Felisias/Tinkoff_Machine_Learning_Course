@@ -5,7 +5,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Mathematics-lightblue.svg)
 
 ##  About This Repository
-This repository contains a comprehensive collection of practical tasks, algorithmic implementations, and data processing scripts completed as part of the **Machine Learning** course at **T Education** (Currently in progress). 
+This repository contains a comprehensive collection of practical tasks, algorithmic implementations, and data processing scripts completed as part of the **Machine Learning** course at **T-Education** (Currently in progress). 
 
 The focus of these tasks is on implementing core machine learning algorithms and metrics "from scratch" using `numpy`, which provides a deep mathematical understanding of how popular libraries like `scikit-learn` operate under the hood.
 
