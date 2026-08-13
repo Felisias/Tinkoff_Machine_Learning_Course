@@ -5,13 +5,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Mathematics-lightblue.svg)
 
 ##  About This Repository
-This repository contains a comprehensive collection of practical tasks, algorithmic implementations, and data processing scripts completed as part of the **Machine Learning** course at **Tinkoff Education** (Currently in progress). 
+This repository contains a comprehensive collection of practical tasks, algorithmic implementations, and data processing scripts completed as part of the **Machine Learning** course at **T Education** (Currently in progress). 
 
 The focus of these tasks is on implementing core machine learning algorithms and metrics "from scratch" using `numpy`, which provides a deep mathematical understanding of how popular libraries like `scikit-learn` operate under the hood.
 
 ##  Repository Structure
 
-The repository consists of 72 individual task files covering various domains of Machine Learning, Data Preprocessing, and Deep Learning components. 
+The repository consists of n individual task files covering various domains of Machine Learning, Data Preprocessing, and Deep Learning components. 
 
 ###  1. Linear Models & Regressions
 * `SGDPoissonRegression` (with Momentum)
@@ -49,9 +49,3 @@ The repository consists of 72 individual task files covering various domains of 
 * **Activations & Gradients:** `relu`, `sigmoid`, `softmax`, and their derivatives.
 * **Layers & Regularization:** `dropout_forward`, `batch_norm_forward`, `max_pooling_1d`, L1/L2 gradients.
 * **Kernels:** `rbf_kernel`, `polynomial_kernel`
-
-##  How to Use
-Each `.md` file contains a clean, uncommented Python implementation of the respective algorithm or function. You can easily copy these classes and functions into your local environment or Jupyter Notebooks to test them against standard datasets.
-
----
-*Created by Nikita Kutsyba.*
